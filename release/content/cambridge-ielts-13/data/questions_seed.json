@@ -1,0 +1,4666 @@
+{
+  "book": {
+    "title": "Cambridge IELTS 13",
+    "total_pages": 140,
+    "source_pdf_path": "cambridge-ielts-13/source/book.pdf",
+    "source_pdf_checksum": "96fe590ec5cd371a9ff1a8cd962552eb89cd48022cbc5c82df2e1c67e36e8259"
+  },
+  "tests": [
+    {
+      "test_number": 1,
+      "sections": [
+        {
+          "skill": "listening",
+          "part_number": 1,
+          "page_start": 12,
+          "page_end": 12,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_01.mp3",
+            "checksum": "ba1c79a6a8fbe1422aaddee4cc4764daa17b464003ca7818b82b53af6f5f0f08",
+            "duration_seconds": 448.29
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 1-10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 1,
+              "question_to": 10,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Information item for Question 1",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 1"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Information item for Question 2",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 2"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Information item for Question 3",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 3"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Information item for Question 4",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 4"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Information item for Question 5",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 5"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Information item for Question 6",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 6"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Information item for Question 7",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 7"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "Information item for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Information item for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Information item for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 2,
+          "page_start": 14,
+          "page_end": 14,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_02.mp3",
+            "checksum": "e9c7364bdb768dc71f30bdf9aff7f2e6c59bf85c537acabf9bbaf042ef252956",
+            "duration_seconds": 405.6
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 11-20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 11,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 11,
+                  "prompt_text": "Information item for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Information item for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Information item for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "Information item for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 14"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Information item for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 15"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Information item for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 16"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Information item for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 17"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Information item for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 18"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Information item for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 19"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Information item for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 20"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 3,
+          "page_start": 16,
+          "page_end": 16,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_03.mp3",
+            "checksum": "43334d865fb8d0dc41499d869b3a27ccf341d3f1b3c64607237811564edf4c88",
+            "duration_seconds": 426.65
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 21,
+              "question_to": 30,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Information item for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Information item for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Information item for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Information item for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Information item for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Information item for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "Information item for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 27"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Information item for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 28"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Information item for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 29"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Information item for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 30"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 4,
+          "page_start": 18,
+          "page_end": 18,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_04.mp3",
+            "checksum": "8a75ffd10f2c43462df31168cc231b6bdb404530dd06d78d0f204601e007c83e",
+            "duration_seconds": 419.11
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 31-40. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 31,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 31,
+                  "prompt_text": "Information item for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 31"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Information item for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 32"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Information item for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 33"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 34,
+                  "prompt_text": "Information item for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Information item for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Information item for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Information item for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Information item for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Information item for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Information item for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Part 4 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 21,
+          "page_end": 23,
+          "passages": [
+            {
+              "title": "READING PASSAGE 1",
+              "body_text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 1, Passage 1. Read the passage carefully to answer questions 1 to 13."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "true_false_not_given",
+              "instruction": "Questions 1-7. Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 1,
+              "question_to": 7,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Statement for Question 1",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Statement for Question 2",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Statement for Question 3",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Statement for Question 4",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Statement for Question 5",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Statement for Question 6",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Statement for Question 7",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_completion",
+              "instruction": "Questions 8-13. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 8,
+              "question_to": 13,
+              "questions": [
+                {
+                  "question_number": 8,
+                  "prompt_text": "Sentence completion for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Sentence completion for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Sentence completion for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "Sentence completion for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Sentence completion for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Sentence completion for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 2,
+          "page_start": 24,
+          "page_end": 26,
+          "passages": [
+            {
+              "title": "READING PASSAGE 2",
+              "body_text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 1, Passage 2. Read the passage carefully to answer questions 14 to 26."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 14-20. Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 14,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 14,
+                  "prompt_text": "Statement for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Statement for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Statement for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Statement for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Statement for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Statement for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Statement for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-26. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 21,
+              "question_to": 26,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Sentence completion for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Sentence completion for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Sentence completion for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Sentence completion for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Sentence completion for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Sentence completion for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 3,
+          "page_start": 27,
+          "page_end": 29,
+          "passages": [
+            {
+              "title": "READING PASSAGE 3",
+              "body_text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 1, Passage 3. Read the passage carefully to answer questions 27 to 40."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 27-33. Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 27,
+              "question_to": 33,
+              "questions": [
+                {
+                  "question_number": 27,
+                  "prompt_text": "Statement for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Statement for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Statement for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Statement for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "Statement for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Statement for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Statement for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 34-40. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 34,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 34,
+                  "prompt_text": "Sentence completion for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Sentence completion for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Sentence completion for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Sentence completion for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Sentence completion for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Sentence completion for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Sentence completion for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 1 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "test_number": 2,
+      "sections": [
+        {
+          "skill": "listening",
+          "part_number": 1,
+          "page_start": 32,
+          "page_end": 32,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_05.mp3",
+            "checksum": "0476f3c9c97aafa432a2ab85c4a812c7145c4b1777e3b38d8debf07f4bf05141",
+            "duration_seconds": 520.94
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 1-10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 1,
+              "question_to": 10,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Information item for Question 1",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 1"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Information item for Question 2",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 2"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Information item for Question 3",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 3"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Information item for Question 4",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 4"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Information item for Question 5",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 5"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Information item for Question 6",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 6"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Information item for Question 7",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 7"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "Information item for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Information item for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Information item for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 2,
+          "page_start": 34,
+          "page_end": 34,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_06.mp3",
+            "checksum": "c97f4ff3b3d9322127f76a22f87524fc349d7f30f6ecfe3015c7f613fc563e71",
+            "duration_seconds": 439.84
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 11-20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 11,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 11,
+                  "prompt_text": "Information item for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Information item for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Information item for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "Information item for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 14"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Information item for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 15"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Information item for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 16"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Information item for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 17"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Information item for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 18"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Information item for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 19"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Information item for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 20"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 3,
+          "page_start": 36,
+          "page_end": 36,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_07.mp3",
+            "checksum": "90d5cd6015432e5570bdbb3c7a3328b67697ab1d1cd8a86ade71711e9510c091",
+            "duration_seconds": 428.44
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 21,
+              "question_to": 30,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Information item for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Information item for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Information item for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Information item for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Information item for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Information item for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "Information item for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 27"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Information item for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 28"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Information item for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 29"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Information item for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 30"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 4,
+          "page_start": 38,
+          "page_end": 38,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD1Track_08.mp3",
+            "checksum": "e675e98dea85e28fa038d23a7e2cd75d4dedaaeadafc9ee827044aa64b60b0ff",
+            "duration_seconds": 543.39
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 31-40. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 31,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 31,
+                  "prompt_text": "Information item for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 31"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Information item for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 32"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Information item for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 33"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 34,
+                  "prompt_text": "Information item for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Information item for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Information item for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Information item for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Information item for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Information item for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Information item for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Part 4 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 41,
+          "page_end": 43,
+          "passages": [
+            {
+              "title": "READING PASSAGE 1",
+              "body_text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 2, Passage 1. Read the passage carefully to answer questions 1 to 13."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "true_false_not_given",
+              "instruction": "Questions 1-7. Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 1,
+              "question_to": 7,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Statement for Question 1",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Statement for Question 2",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Statement for Question 3",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Statement for Question 4",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Statement for Question 5",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Statement for Question 6",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Statement for Question 7",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_completion",
+              "instruction": "Questions 8-13. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 8,
+              "question_to": 13,
+              "questions": [
+                {
+                  "question_number": 8,
+                  "prompt_text": "Sentence completion for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Sentence completion for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Sentence completion for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "Sentence completion for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Sentence completion for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Sentence completion for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 2,
+          "page_start": 44,
+          "page_end": 46,
+          "passages": [
+            {
+              "title": "READING PASSAGE 2",
+              "body_text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 2, Passage 2. Read the passage carefully to answer questions 14 to 26."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 14-20. Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 14,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 14,
+                  "prompt_text": "Statement for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Statement for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Statement for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Statement for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Statement for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Statement for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Statement for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-26. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 21,
+              "question_to": 26,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Sentence completion for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Sentence completion for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Sentence completion for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Sentence completion for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Sentence completion for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Sentence completion for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 3,
+          "page_start": 47,
+          "page_end": 49,
+          "passages": [
+            {
+              "title": "READING PASSAGE 3",
+              "body_text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 2, Passage 3. Read the passage carefully to answer questions 27 to 40."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 27-33. Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 27,
+              "question_to": 33,
+              "questions": [
+                {
+                  "question_number": 27,
+                  "prompt_text": "Statement for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Statement for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Statement for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Statement for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "Statement for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Statement for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Statement for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 34-40. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 34,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 34,
+                  "prompt_text": "Sentence completion for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Sentence completion for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Sentence completion for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Sentence completion for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Sentence completion for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Sentence completion for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Sentence completion for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 2 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "test_number": 3,
+      "sections": [
+        {
+          "skill": "listening",
+          "part_number": 1,
+          "page_start": 52,
+          "page_end": 52,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_01.mp3",
+            "checksum": "c319b88430e2e1764005d3463ba8d1a58db84854df2ca00e382023891800a834",
+            "duration_seconds": 548.35
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 1-10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 1,
+              "question_to": 10,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Information item for Question 1",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 1"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Information item for Question 2",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 2"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Information item for Question 3",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 3"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Information item for Question 4",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 4"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Information item for Question 5",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 5"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Information item for Question 6",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 6"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Information item for Question 7",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 7"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "Information item for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Information item for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Information item for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 2,
+          "page_start": 54,
+          "page_end": 54,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_02.mp3",
+            "checksum": "133658ee4fd7e06a61bf9d0c703f3c3331ced3bd7f9252690cc343365f26f60a",
+            "duration_seconds": 380.82
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 11-20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 11,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 11,
+                  "prompt_text": "Information item for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Information item for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Information item for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "Information item for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 14"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Information item for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 15"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Information item for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 16"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Information item for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 17"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Information item for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 18"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Information item for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 19"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Information item for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 20"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 3,
+          "page_start": 56,
+          "page_end": 56,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_03.mp3",
+            "checksum": "65e5e4e1bacc044d6621e474a157a329c16b48886c16cf6c4caa62fe95558203",
+            "duration_seconds": 397.95
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 21,
+              "question_to": 30,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Information item for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Information item for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Information item for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Information item for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Information item for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Information item for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "Information item for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 27"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Information item for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 28"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Information item for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 29"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Information item for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 30"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 4,
+          "page_start": 58,
+          "page_end": 58,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_04.mp3",
+            "checksum": "c62a77fbeadfa5bc56ae64390cf08d56e8a0c2bf6c760d7b021d82e8abe39ca6",
+            "duration_seconds": 399.0
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 31-40. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 31,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 31,
+                  "prompt_text": "Information item for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 31"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Information item for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 32"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Information item for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 33"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 34,
+                  "prompt_text": "Information item for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Information item for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Information item for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Information item for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Information item for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Information item for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Information item for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Part 4 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 61,
+          "page_end": 63,
+          "passages": [
+            {
+              "title": "READING PASSAGE 1",
+              "body_text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 3, Passage 1. Read the passage carefully to answer questions 1 to 13."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "true_false_not_given",
+              "instruction": "Questions 1-7. Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 1,
+              "question_to": 7,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Statement for Question 1",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Statement for Question 2",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Statement for Question 3",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Statement for Question 4",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Statement for Question 5",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Statement for Question 6",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Statement for Question 7",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_completion",
+              "instruction": "Questions 8-13. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 8,
+              "question_to": 13,
+              "questions": [
+                {
+                  "question_number": 8,
+                  "prompt_text": "Sentence completion for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Sentence completion for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Sentence completion for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "Sentence completion for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Sentence completion for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Sentence completion for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 2,
+          "page_start": 64,
+          "page_end": 66,
+          "passages": [
+            {
+              "title": "READING PASSAGE 2",
+              "body_text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 3, Passage 2. Read the passage carefully to answer questions 14 to 26."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 14-20. Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 14,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 14,
+                  "prompt_text": "Statement for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Statement for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Statement for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Statement for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Statement for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Statement for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Statement for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-26. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 21,
+              "question_to": 26,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Sentence completion for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Sentence completion for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Sentence completion for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Sentence completion for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Sentence completion for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Sentence completion for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 3,
+          "page_start": 67,
+          "page_end": 69,
+          "passages": [
+            {
+              "title": "READING PASSAGE 3",
+              "body_text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 3, Passage 3. Read the passage carefully to answer questions 27 to 40."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 27-33. Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 27,
+              "question_to": 33,
+              "questions": [
+                {
+                  "question_number": 27,
+                  "prompt_text": "Statement for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Statement for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Statement for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Statement for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "Statement for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Statement for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Statement for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 34-40. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 34,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 34,
+                  "prompt_text": "Sentence completion for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Sentence completion for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Sentence completion for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Sentence completion for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Sentence completion for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Sentence completion for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Sentence completion for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 3 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "test_number": 4,
+      "sections": [
+        {
+          "skill": "listening",
+          "part_number": 1,
+          "page_start": 72,
+          "page_end": 72,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_05.mp3",
+            "checksum": "972d0bfd6f79ef89c00c7d98cd23095dd2e1bc9b5c9120ea1bf73141596a8dc7",
+            "duration_seconds": 466.16
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 1-10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 1,
+              "question_to": 10,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Information item for Question 1",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 1"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Information item for Question 2",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 2"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Information item for Question 3",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 3"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Information item for Question 4",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 4"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Information item for Question 5",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 5"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Information item for Question 6",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 6"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Information item for Question 7",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 7"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "Information item for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Information item for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Information item for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 2,
+          "page_start": 74,
+          "page_end": 74,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_06.mp3",
+            "checksum": "45d23c251f06d5a51a20941d714c132542230b65990f977b71a19eae6df4b8d8",
+            "duration_seconds": 412.06
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 11-20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 11,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 11,
+                  "prompt_text": "Information item for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Information item for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Information item for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "Information item for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 14"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Information item for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 15"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Information item for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 16"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Information item for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 17"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Information item for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 18"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Information item for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 19"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Information item for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 20"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 3,
+          "page_start": 76,
+          "page_end": 76,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_07.mp3",
+            "checksum": "86b84c8003e08bde4ece692140f89c424eca07394d82b7846e83ba6ca834dd8e",
+            "duration_seconds": 450.2
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 21,
+              "question_to": 30,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Information item for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Information item for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Information item for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Information item for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Information item for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Information item for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "Information item for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 27"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Information item for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 28"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Information item for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 29"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Information item for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 30"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "listening",
+          "part_number": 4,
+          "page_start": 78,
+          "page_end": 78,
+          "audio": {
+            "file_path": "cambridge-ielts-13/audio/IELTS13-Tests1-4CD2Track_08.mp3",
+            "checksum": "481c84c1b0250ac7f6eeeb3e3b9faa1207fa1f21bfd1106fbbcb28d7e63ac381",
+            "duration_seconds": 477.74
+          },
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "notes_completion",
+              "instruction": "Questions 31-40. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+              "question_from": 31,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 31,
+                  "prompt_text": "Information item for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 31"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Information item for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 32"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Information item for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 33"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 34,
+                  "prompt_text": "Information item for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Information item for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Information item for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Information item for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Information item for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Information item for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Information item for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Part 4 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 81,
+          "page_end": 83,
+          "passages": [
+            {
+              "title": "READING PASSAGE 1",
+              "body_text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 4, Passage 1. Read the passage carefully to answer questions 1 to 13."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "true_false_not_given",
+              "instruction": "Questions 1-7. Do the following statements agree with the information given in Reading Passage 1?\nIn boxes 1-7 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 1,
+              "question_to": 7,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Statement for Question 1",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Statement for Question 2",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Statement for Question 3",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Statement for Question 4",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "Statement for Question 5",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Statement for Question 6",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Statement for Question 7",
+                  "options": [
+                    {
+                      "option_label": "A",
+                      "option_text": "TRUE"
+                    },
+                    {
+                      "option_label": "B",
+                      "option_text": "FALSE"
+                    },
+                    {
+                      "option_label": "C",
+                      "option_text": "NOT GIVEN"
+                    }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_completion",
+              "instruction": "Questions 8-13. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 8,
+              "question_to": 13,
+              "questions": [
+                {
+                  "question_number": 8,
+                  "prompt_text": "Sentence completion for Question 8",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 8"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "Sentence completion for Question 9",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 9"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Sentence completion for Question 10",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 10"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "Sentence completion for Question 11",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 11"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Sentence completion for Question 12",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 12"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Sentence completion for Question 13",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 13"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 1 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 2,
+          "page_start": 84,
+          "page_end": 86,
+          "passages": [
+            {
+              "title": "READING PASSAGE 2",
+              "body_text": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 4, Passage 2. Read the passage carefully to answer questions 14 to 26."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 14-20. Do the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 14,
+              "question_to": 20,
+              "questions": [
+                {
+                  "question_number": 14,
+                  "prompt_text": "Statement for Question 14",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Statement for Question 15",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Statement for Question 16",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Statement for Question 17",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Statement for Question 18",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Statement for Question 19",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Statement for Question 20",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 21-26. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 21,
+              "question_to": 26,
+              "questions": [
+                {
+                  "question_number": 21,
+                  "prompt_text": "Sentence completion for Question 21",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 21"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "Sentence completion for Question 22",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 22"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Sentence completion for Question 23",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 23"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Sentence completion for Question 24",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 24"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "Sentence completion for Question 25",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 25"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "Sentence completion for Question 26",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 26"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 2 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "skill": "reading",
+          "part_number": 3,
+          "page_start": 87,
+          "page_end": 89,
+          "passages": [
+            {
+              "title": "READING PASSAGE 3",
+              "body_text": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.\n\nAcademic reading text from Cambridge IELTS 13, Test 4, Passage 3. Read the passage carefully to answer questions 27 to 40."
+            }
+          ],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "matching_headings",
+              "instruction": "Questions 27-33. Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.",
+              "question_from": 27,
+              "question_to": 33,
+              "questions": [
+                {
+                  "question_number": 27,
+                  "prompt_text": "Statement for Question 27",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Statement for Question 28",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "Statement for Question 29",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "Statement for Question 30",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "Statement for Question 31",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Statement for Question 32",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "FALSE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Statement for Question 33",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "TRUE"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "multiple_choice",
+              "instruction": "Questions 34-40. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+              "question_from": 34,
+              "question_to": 40,
+              "questions": [
+                {
+                  "question_number": 34,
+                  "prompt_text": "Sentence completion for Question 34",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 34"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "Sentence completion for Question 35",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 35"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "Sentence completion for Question 36",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 36"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Sentence completion for Question 37",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 37"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Sentence completion for Question 38",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 38"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 39,
+                  "prompt_text": "Sentence completion for Question 39",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 39"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                },
+                {
+                  "question_number": 40,
+                  "prompt_text": "Sentence completion for Question 40",
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Answer 40"
+                    ],
+                    "explanation": "Cambridge IELTS 13 Test 4 Passage 3 Official Answer Key"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
