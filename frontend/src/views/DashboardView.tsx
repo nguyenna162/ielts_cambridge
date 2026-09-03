@@ -4,10 +4,20 @@ import { getBooks, getBookTests, getTestSections } from '../api';
 import { Headphones, BookOpen, ChevronRight, Play } from 'lucide-react';
 
 interface DashboardViewProps {
+  selectedBookId: number | null;
+  selectedTestId: number | null;
+  onSelectBook: (bookId: number) => void;
+  onSelectTest: (testId: number) => void;
   onStartExam: (sectionId: number) => void;
 }
 
-export const DashboardView: React.FC<DashboardViewProps> = ({ onStartExam }) => {
+export const DashboardView: React.FC<DashboardViewProps> = ({
+  selectedBookId,
+  selectedTestId,
+  onSelectBook,
+  onSelectTest,
+  onStartExam,
+}) => {
   const [books, setBooks] = useState<Book[]>([]);
   const [selectedBook, setSelectedBook] = useState<Book | null>(null);
   const [tests, setTests] = useState<TestItem[]>([]);
@@ -17,7 +27,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({ onStartExam }) => 
 
   useEffect(() => {
     getBooks()
-      .then((data) => {
+      .then(async (data) => {
         // Natural sort books by title (Cambridge IELTS 10, 11, 12, 13, 14, 15)
         const sorted = [...data].sort((a, b) => {
           const numA = parseInt(a.title.replace(/\D/g, ''), 10) || 0;
@@ -26,16 +36,21 @@ export const DashboardView: React.FC<DashboardViewProps> = ({ onStartExam }) => 
         });
         setBooks(sorted);
         if (sorted.length > 0) {
-          const savedBookId = localStorage.getItem('ielts_selected_book_id');
-          const matchedBook = sorted.find((b) => String(b.id) === savedBookId);
-          handleSelectBook(matchedBook || sorted[0]);
+          const targetBookId =
+            selectedBookId ||
+            (localStorage.getItem('ielts_selected_book_id')
+              ? Number(localStorage.getItem('ielts_selected_book_id'))
+              : null);
+          const matchedBook = sorted.find((b) => b.id === targetBookId) || sorted[0];
+          await handleSelectBook(matchedBook, selectedTestId);
         }
       })
       .finally(() => setLoading(false));
   }, []);
 
-  const handleSelectBook = async (book: Book) => {
+  const handleSelectBook = async (book: Book, initialTestId?: number | null) => {
     setSelectedBook(book);
+    onSelectBook(book.id);
     localStorage.setItem('ielts_selected_book_id', String(book.id));
     setSelectedTest(null);
     setSections([]);
@@ -43,9 +58,13 @@ export const DashboardView: React.FC<DashboardViewProps> = ({ onStartExam }) => 
       const testList = await getBookTests(book.id);
       setTests(testList);
       if (testList.length > 0) {
-        const savedTestId = localStorage.getItem('ielts_selected_test_id');
-        const matchedTest = testList.find((t) => String(t.id) === savedTestId);
-        handleSelectTest(matchedTest || testList[0]);
+        const targetTestId =
+          initialTestId ||
+          (localStorage.getItem('ielts_selected_test_id')
+            ? Number(localStorage.getItem('ielts_selected_test_id'))
+            : null);
+        const matchedTest = testList.find((t) => t.id === targetTestId) || testList[0];
+        await handleSelectTest(matchedTest);
       }
     } catch (e) {
       console.error(e);
@@ -54,6 +73,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({ onStartExam }) => 
 
   const handleSelectTest = async (test: TestItem) => {
     setSelectedTest(test);
+    onSelectTest(test.id);
     localStorage.setItem('ielts_selected_test_id', String(test.id));
     try {
       const secList = await getTestSections(test.id);

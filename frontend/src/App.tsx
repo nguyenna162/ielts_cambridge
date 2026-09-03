@@ -14,6 +14,14 @@ export const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<string>('dashboard');
   const [activeSectionId, setActiveSectionId] = useState<number | null>(null);
   const [lastResult, setLastResult] = useState<AttemptResult | null>(null);
+  const [selectedBookId, setSelectedBookId] = useState<number | null>(() => {
+    const saved = localStorage.getItem('ielts_selected_book_id');
+    return saved ? Number(saved) : null;
+  });
+  const [selectedTestId, setSelectedTestId] = useState<number | null>(() => {
+    const saved = localStorage.getItem('ielts_selected_test_id');
+    return saved ? Number(saved) : null;
+  });
 
   useEffect(() => {
     getMe()
@@ -65,7 +73,13 @@ export const App: React.FC = () => {
         )}
 
         {currentView === 'dashboard' && (
-          <DashboardView onStartExam={handleStartExam} />
+          <DashboardView
+            selectedBookId={selectedBookId}
+            selectedTestId={selectedTestId}
+            onSelectBook={(bId) => setSelectedBookId(bId)}
+            onSelectTest={(tId) => setSelectedTestId(tId)}
+            onStartExam={handleStartExam}
+          />
         )}
 
         {currentView === 'exam' && activeSectionId && (
