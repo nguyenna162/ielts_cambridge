@@ -15,7 +15,7 @@ from app.models import (
     QuestionOption,
     AnswerKey,
 )
-from app.schemas import BookCreate, BookUpdate, BookOut, TestCreate, TestOut
+from app.schemas import BookCreate, BookUpdate, BookOut, TestCreate, TestOut, UserOut
 from app.services.auth_service import get_current_user
 
 router = APIRouter(prefix="/admin", tags=["Admin CRUD"])
@@ -156,3 +156,56 @@ def update_question(
 
     db.commit()
     return {"ok": True, "question_id": q.id}
+
+
+# User & Role Management
+class UserRoleUpdate(BaseModel):
+    is_admin: bool
+
+
+@router.get("/users", response_model=List[UserOut])
+def list_users(
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    if not current_user.is_admin:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Admin privileges required to view user accounts",
+        )
+    users = db.execute(select(User).order_by(User.id.asc())).scalars().all()
+    return [UserOut.model_validate(u) for u in users]
+
+
+@router.patch("/users/{user_id}/role", response_model=UserOut)
+def update_user_role(
+    user_id: int,
+    data: UserRoleUpdate,
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    # Only the master account 'na' is allowed to promote or demote admin privileges
+    if current_user.username != "na":
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Chỉ tài khoản 'na' mới có quyền duyệt và cấp quyền Admin cho các tài khoản khác.",
+        )
+
+    target_user = db.get(User, user_id)
+    if not target_user:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="User not found",
+        )
+
+    if target_user.username == "na" and not data.is_admin:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Không thể thu hồi quyền Admin của tài khoản chủ sở hữu 'na'.",
+        )
+
+    target_user.is_admin = data.is_admin
+    db.commit()
+    db.refresh(target_user)
+    return UserOut.model_validate(target_user)
+

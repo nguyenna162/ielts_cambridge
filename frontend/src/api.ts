@@ -125,3 +125,28 @@ export async function getAttemptHistory(): Promise<AttemptResult[]> {
 export function getAudioStreamUrl(sectionId: number): string {
   return `${API_BASE}/sections/${sectionId}/audio`;
 }
+
+export async function getUsers(): Promise<User[]> {
+  const res = await fetch(`${API_BASE}/admin/users`, {
+    headers: getAuthHeaders(),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.detail || 'Failed to fetch users');
+  }
+  return res.json();
+}
+
+export async function updateUserRole(userId: number, isAdmin: boolean): Promise<User> {
+  const res = await fetch(`${API_BASE}/admin/users/${userId}/role`, {
+    method: 'PATCH',
+    headers: getAuthHeaders(),
+    body: JSON.stringify({ is_admin: isAdmin }),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.detail || 'Failed to update user role');
+  }
+  return res.json();
+}
+

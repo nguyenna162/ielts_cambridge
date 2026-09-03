@@ -9,8 +9,8 @@ interface LoginViewProps {
 
 export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
   const [isRegisterMode, setIsRegisterMode] = useState(false);
-  const [username, setUsername] = useState('student');
-  const [password, setPassword] = useState('123456');
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
   const [loading, setLoading] = useState(false);
@@ -42,22 +42,6 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
       } finally {
         setLoading(false);
       }
-    }
-  };
-
-  const handleQuickLogin = async (u: string, p: string) => {
-    setUsername(u);
-    setPassword(p);
-    setError('');
-    setSuccessMessage('');
-    setLoading(true);
-    try {
-      const data = await login(u, p);
-      onLoginSuccess(data.user);
-    } catch (err: any) {
-      setError(err.message || 'Login failed');
-    } finally {
-      setLoading(false);
     }
   };
 
@@ -226,32 +210,6 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
             )}
           </button>
         </form>
-
-        {!isRegisterMode && (
-          <div style={{ marginTop: '1.5rem', paddingTop: '1.25rem', borderTop: '1px solid var(--border)', textAlign: 'center' }}>
-            <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '0.6rem' }}>
-              Quick Offline Access (DEV / LAN)
-            </div>
-            <div style={{ display: 'flex', gap: '0.5rem', justifyContent: 'center' }}>
-              <button
-                type="button"
-                className="btn btn-outline"
-                style={{ fontSize: '0.8rem', padding: '0.4rem 0.8rem' }}
-                onClick={() => handleQuickLogin('student', '123456')}
-              >
-                Student
-              </button>
-              <button
-                type="button"
-                className="btn btn-outline"
-                style={{ fontSize: '0.8rem', padding: '0.4rem 0.8rem' }}
-                onClick={() => handleQuickLogin('admin', '1')}
-              >
-                Admin
-              </button>
-            </div>
-          </div>
-        )}
       </div>
     </div>
   );

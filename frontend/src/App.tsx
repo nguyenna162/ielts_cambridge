@@ -113,7 +113,7 @@ export const App: React.FC = () => {
           />
         )}
 
-        {currentView === 'admin' && <AdminView />}
+        {currentView === 'admin' && <AdminView user={user} />}
       </main>
     </div>
   );

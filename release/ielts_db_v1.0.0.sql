@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 2Sg5cFuOwH70agoaBgxceldgQTok85HH6tQZFW5ATY63wVCGFqqeib2kWdR72mS
+\restrict E7WJDhiIgwtbthsfw3BeUfDbbYkx3HSe9TfG4KGgtKhDyoACHsUsA7c3XyOzP2E
 
 -- Dumped from database version 18.6
 -- Dumped by pg_dump version 18.6
@@ -5751,6 +5751,7 @@ COPY public.user_attempts (id, user_id, section_id, started_at, finished_at) FRO
 18	2	33	2026-09-01 23:22:53.894306+07	\N
 19	2	57	2026-09-04 00:36:16.263942+07	\N
 20	2	61	2026-09-04 00:36:26.650739+07	\N
+21	2	83	2026-09-04 00:55:10.38361+07	\N
 \.
 
 
@@ -5762,6 +5763,7 @@ COPY public.users (id, username, password_hash, is_admin, created_at) FROM stdin
 1	admin	332ef5d1c148cddfc57688dae8e7df559632ba17c1bfdc051b3f031a7a3f0913	t	2026-08-31 22:39:48.093784+07
 2	student	d2b8a5bd97f4f058e6668e784a22293970f9a19c1580e7260f31ccd0e8d7d9b8	f	2026-08-31 22:54:18.487201+07
 3	john_doe_99	cab25e4f78b08707b74688e76dd23504e53582a45297263076b968a7a17b1ca1	f	2026-08-31 23:13:03.473544+07
+4	na	332ef5d1c148cddfc57688dae8e7df559632ba17c1bfdc051b3f031a7a3f0913	t	2026-09-04 00:55:42.958358+07
 \.
 
 
@@ -5839,14 +5841,14 @@ SELECT pg_catalog.setval('public.user_answers_id_seq', 4, true);
 -- Name: user_attempts_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.user_attempts_id_seq', 20, true);
+SELECT pg_catalog.setval('public.user_attempts_id_seq', 21, true);
 
 
 --
 -- Name: users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.users_id_seq', 3, true);
+SELECT pg_catalog.setval('public.users_id_seq', 5, true);
 
 
 --
@@ -6101,5 +6103,5 @@ ALTER TABLE ONLY public.user_attempts
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 2Sg5cFuOwH70agoaBgxceldgQTok85HH6tQZFW5ATY63wVCGFqqeib2kWdR72mS
+\unrestrict E7WJDhiIgwtbthsfw3BeUfDbbYkx3HSe9TfG4KGgtKhDyoACHsUsA7c3XyOzP2E
 
