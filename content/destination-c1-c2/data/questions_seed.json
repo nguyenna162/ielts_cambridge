@@ -1,0 +1,352 @@
+{
+  "book": {
+    "title": "Destination C1 and C2 Grammar and Vocabulary",
+    "total_pages": 316,
+    "source_pdf_path": "destination-c1-c2/source/book.pdf",
+    "source_pdf_checksum": "58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a"
+  },
+  "tests": [
+    {
+      "test_number": 1,
+      "sections": [
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 9,
+          "page_end": 11,
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "verb_form",
+              "instruction": "Exercise A: Write the verb in brackets in the correct form, present simple or present continuous, in each gap.",
+              "question_from": 1,
+              "question_to": 16,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "My brother ______ (do) a degree at university so I don't see him very often.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["is doing"],
+                    "explanation": "Present continuous for a temporary course of study."
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "My brother is doing a degree at university so I ______ (not / see) him very often, unfortunately.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["don't see", "do not see"],
+                    "explanation": "Present simple with 'very often'."
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Darren ______ usually ______ (not / get) home until about eight o'clock.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["doesn't get", "does not get"],
+                    "explanation": "Present simple for habitual arrival time."
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "I'm sorry to hear that your parents ______ (get) divorced.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["are getting"],
+                    "explanation": "Present continuous for a process currently in progress."
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "You ______ (go) to the end of the street and turn right.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["go"],
+                    "explanation": "Present simple for giving directions."
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "You go to the end of the street and ______ (turn) right.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["turn"],
+                    "explanation": "Present simple imperative/direction."
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "Why ______ ice ______ (float)?",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["does float", "floats"],
+                    "explanation": "Present simple for scientific facts."
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "It's lovely now the evenings ______ (get) longer, isn't it?",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["are getting"],
+                    "explanation": "Present continuous for gradual changes and trends."
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "My dad ______ (not / eat) meat at all - he's a vegetarian.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["doesn't eat", "does not eat"],
+                    "explanation": "Present simple for permanent lifestyle choices."
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "Actually, we ______ (not / listen) to The Libertines at all - this is Babyshambles.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["aren't listening", "are not listening"],
+                    "explanation": "Present continuous for action happening at the moment."
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "A man ______ (walk) into a bar. Ouch! Not a good idea to walk into an iron bar!",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["walks"],
+                    "explanation": "Historic present simple used in joke telling."
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "______ you ______ (phone) me from your mobile? The line's not very good.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["are phoning", "Are you phoning"],
+                    "explanation": "Present continuous for action happening right now."
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "Do you often ______ (order) things online?",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["order", "Do order"],
+                    "explanation": "Present simple for regular habits with 'often'."
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "There's an Englishman, an Irishman and a Scotsman. They ______ (walk) across the desert...",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["are walking"],
+                    "explanation": "Present continuous setting background in narrative/joke."
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "... when one of them ______ (spot) a camel in the distance.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["spots"],
+                    "explanation": "Present simple for sudden event in narrative."
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "'Phil ______ (not / wear) ties, does he?' - 'Actually, he wears a tie to work most days.'",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["doesn't wear", "does not wear"],
+                    "explanation": "Present simple with tag question."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "gap_fill",
+              "instruction": "Exercise B: Write one word in each gap.",
+              "question_from": 17,
+              "question_to": 31,
+              "questions": [
+                {
+                  "question_number": 17,
+                  "prompt_text": "Why do you ______ leave the light on when you go out of the room? You wait till you start paying the electricity bill!",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["always"],
+                    "explanation": "'always' expressing criticism or irritation."
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Fifteen teachers are teaching here full-time at ______ .",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["present"],
+                    "explanation": "'at present' meaning currently."
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "My sister's revising for her GCSEs at the ______ .",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["moment"],
+                    "explanation": "'at the moment' for actions happening around now."
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "I'm quite happy living at home for the time ______ , but I guess I'll have to get my own place eventually.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["being"],
+                    "explanation": "'for the time being' meaning temporarily."
+                  }
+                },
+                {
+                  "question_number": 21,
+                  "prompt_text": "It's true that Ralph calls us quite ______ , but most students only call their parents when they need something, don't they?",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["rarely"],
+                    "explanation": "'rarely' indicating seldom frequency."
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "We go to the cinema ______ now and then, but only if there's something good on.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["every"],
+                    "explanation": "'every now and then' meaning occasionally."
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "I'm alone in my study bedroom reading ______ of the time.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["most", "much", "some"],
+                    "explanation": "'most of the time' meaning usually."
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Tim ______ goes out to play until he's done all his homework. I just don't allow it!",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["never"],
+                    "explanation": "'never' meaning at no time."
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "I see Lucinda from ______ to time, but not on a regular basis.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["time"],
+                    "explanation": "'from time to time' meaning occasionally."
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "I'm sitting in the garden ______ now talking to you on my mobile.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["right"],
+                    "explanation": "'right now' emphasizing the exact present moment."
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "That's the last ______ we're inviting Dave to one of our parties!",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["time"],
+                    "explanation": "'the last time' idiom."
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Do young people these ______ have more free time than they did in the past?",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["days"],
+                    "explanation": "'these days' meaning nowadays."
+                  }
+                },
+                {
+                  "question_number": 29,
+                  "prompt_text": "My mum fills up with petrol ______ she goes to the supermarket.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["whenever", "when", "if"],
+                    "explanation": "'whenever' meaning every time that."
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "I'm staying in ______ now, but I might go out a bit later on.",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["for"],
+                    "explanation": "'for now' meaning for the present moment."
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "______ is the last time I ever order from that pizzeria. It was disgusting!",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["That", "It"],
+                    "explanation": "'That is the last time...' expressing a firm decision."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

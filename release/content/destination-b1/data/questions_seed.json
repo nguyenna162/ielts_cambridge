@@ -1,0 +1,414 @@
+{
+  "book": {
+    "title": "Destination B1 Grammar and Vocabulary",
+    "total_pages": 256,
+    "source_pdf_path": "destination-b1/source/book.pdf",
+    "source_pdf_checksum": "70edf10639ab3d99652b3e835168947f3eba18221b40832232f3ca091cadfe7c"
+  },
+  "tests": [
+    {
+      "test_number": 1,
+      "sections": [
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 6,
+          "page_end": 8,
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "verb_form",
+              "instruction": "Exercise B: Complete using the correct present continuous form of the verbs in brackets. You may have to use some negative forms.",
+              "question_from": 1,
+              "question_to": 8,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Gordon? I think he ______ (write) a letter at the moment.",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "is writing",
+                      "'s writing"
+                    ],
+                    "explanation": "Present continuous for an action happening right now."
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Yes, the match is on TV now, but we ______ (lose).",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "are losing",
+                      "'re losing"
+                    ],
+                    "explanation": "Present continuous for an ongoing situation."
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "Right now, Margaret ______ (have) a shower. Do you want to ring later?",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "is having",
+                      "'s having"
+                    ],
+                    "explanation": "Present continuous with 'have' meaning taking a shower (temporary action)."
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Sally ______ (stay) with her aunt for a few days.",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "is staying",
+                      "'s staying"
+                    ],
+                    "explanation": "Present continuous for temporary situations."
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "I ______ (lie)! It's true! I did see Madonna at the supermarket.",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "am not lying",
+                      "'m not lying"
+                    ],
+                    "explanation": "Negative present continuous of 'lie'."
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "Josh ______ (always / use) my bike! It's so annoying.",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "is always using",
+                      "'s always using"
+                    ],
+                    "explanation": "Present continuous with 'always' to express annoying habits."
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "We ______ (have) lunch, but I can come round and help you later.",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "are having",
+                      "'re having"
+                    ],
+                    "explanation": "Present continuous for an action in progress at the time of speaking."
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "______ (you / play) music up there? It's really noisy!",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Are you playing"
+                    ],
+                    "explanation": "Present continuous question form."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_correction",
+              "instruction": "Exercise C: Rewrite correctly. Change the words or phrases in bold.",
+              "question_from": 9,
+              "question_to": 16,
+              "questions": [
+                {
+                  "question_number": 9,
+                  "prompt_text": "Are top musicians studying for many years? -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Do top musicians study"
+                    ],
+                    "explanation": "Present simple for general facts and routines."
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "What's going on? I hope you don't touch my things! -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "aren't touching",
+                      "are not touching"
+                    ],
+                    "explanation": "Present continuous for an action happening at the moment of speaking."
+                  }
+                },
+                {
+                  "question_number": 11,
+                  "prompt_text": "It's a small business, so each person is doing lots of different jobs. -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "does"
+                    ],
+                    "explanation": "Present simple for permanent or regular job responsibilities."
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Does Christine listen to the radio, or is that the TV I can hear? -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Is Christine listening"
+                    ],
+                    "explanation": "Present continuous for an action in progress right now."
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "I am usually buying a special ticket each week for the bus because it's cheaper. -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "usually buy"
+                    ],
+                    "explanation": "Present simple with frequency adverb 'usually'."
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "Our washing machine is starting when you press this button. -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "starts"
+                    ],
+                    "explanation": "Present simple for scientific facts, instructions, or automatic reactions."
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "How's the match going? Does our team win? -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "Is our team winning",
+                      "Is our team winning?"
+                    ],
+                    "explanation": "Present continuous for an ongoing match/situation."
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Many people are enjoying spending time on the beach on holiday. -> ______",
+                  "page_reference": 7,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": [
+                      "enjoy"
+                    ],
+                    "explanation": "Stative verb 'enjoy' expressing a general feeling/preference in present simple."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 3,
+              "question_type": "multiple_choice",
+              "instruction": "Exercise D: Circle the correct word or phrase.",
+              "question_from": 17,
+              "question_to": 26,
+              "questions": [
+                {
+                  "question_number": 17,
+                  "prompt_text": "I work / am working at the local library for the summer.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "work" },
+                    { "option_label": "B", "option_text": "am working" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "B",
+                      "am working"
+                    ],
+                    "explanation": "Present continuous for temporary summer job."
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "We don't go / aren't going to the theatre very often.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "don't go" },
+                    { "option_label": "B", "option_text": "aren't going" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "don't go",
+                      "do not go"
+                    ],
+                    "explanation": "Present simple for habits and routines ('very often')."
+                  }
+                },
+                {
+                  "question_number": 19,
+                  "prompt_text": "Stacy gets / is getting ready for school, so she can't come to the phone.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "gets" },
+                    { "option_label": "B", "option_text": "is getting" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "B",
+                      "is getting"
+                    ],
+                    "explanation": "Action happening right now at the time of the phone call."
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "Does Gary ever talk / Is Gary ever talking about his expedition to the Amazon jungle?",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "Does Gary ever talk" },
+                    { "option_label": "B", "option_text": "Is Gary ever talking" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "Does Gary ever talk"
+                    ],
+                    "explanation": "Present simple with 'ever' to ask about general habits/actions."
+                  }
+                },
+                {
+                  "question_number": 21,
+                  "prompt_text": "In squash, you hit / are hitting a ball against a wall.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "hit" },
+                    { "option_label": "B", "option_text": "are hitting" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "hit"
+                    ],
+                    "explanation": "Present simple for rules of sports and general truths."
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "I read / am reading a newspaper at least once a week.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "read" },
+                    { "option_label": "B", "option_text": "am reading" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "read"
+                    ],
+                    "explanation": "Present simple for frequency ('at least once a week')."
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Do you practise / Are you practising the piano for two hours every day?",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "Do you practise" },
+                    { "option_label": "B", "option_text": "Are you practising" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "Do you practise",
+                      "Do you practice"
+                    ],
+                    "explanation": "Present simple for daily routine ('every day')."
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "Nadine and Claire do / are doing quite well at school at the moment.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "do" },
+                    { "option_label": "B", "option_text": "are doing" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "B",
+                      "are doing"
+                    ],
+                    "explanation": "Present continuous for situation around the present ('at the moment')."
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "A good friend knows / is knowing when you're upset about something.",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "knows" },
+                    { "option_label": "B", "option_text": "is knowing" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "knows"
+                    ],
+                    "explanation": "Stative verb 'know' is not used in continuous tenses."
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "How do you spell / are you spelling your name?",
+                  "page_reference": 8,
+                  "options": [
+                    { "option_label": "A", "option_text": "do you spell" },
+                    { "option_label": "B", "option_text": "are you spelling" }
+                  ],
+                  "answer_key": {
+                    "correct_answer": [
+                      "A",
+                      "do you spell"
+                    ],
+                    "explanation": "Present simple to ask how a permanent name is spelled."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

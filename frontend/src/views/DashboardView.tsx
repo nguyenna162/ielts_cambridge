@@ -28,11 +28,25 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
   useEffect(() => {
     getBooks()
       .then(async (data) => {
-        // Natural sort books by title (Cambridge IELTS 10, 11, 12, 13, 14, 15)
+        // Group and sort books logically: Cambridge IELTS (10 -> 15) then Destination (B1 -> B2 -> C1 & C2)
         const sorted = [...data].sort((a, b) => {
-          const numA = parseInt(a.title.replace(/\D/g, ''), 10) || 0;
-          const numB = parseInt(b.title.replace(/\D/g, ''), 10) || 0;
-          return numA - numB;
+          const isDestA = a.title.toLowerCase().includes('destination');
+          const isDestB = b.title.toLowerCase().includes('destination');
+          if (isDestA !== isDestB) {
+            return isDestA ? 1 : -1;
+          }
+          if (!isDestA) {
+            const numA = parseInt(a.title.replace(/\D/g, ''), 10) || 0;
+            const numB = parseInt(b.title.replace(/\D/g, ''), 10) || 0;
+            return numA - numB;
+          } else {
+            const levelOrder: { [k: string]: number } = { b1: 1, b2: 2, c1: 3, c2: 4 };
+            const getLevel = (t: string) => {
+              const match = t.toLowerCase().match(/(b1|b2|c1|c2)/);
+              return match ? levelOrder[match[1]] || 99 : 99;
+            };
+            return getLevel(a.title) - getLevel(b.title);
+          }
         });
         setBooks(sorted);
         if (sorted.length > 0) {
@@ -118,10 +132,12 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
         </div>
       </div>
 
-      {/* Test Selection Tabs */}
+      {/* Test / Unit Selection Tabs */}
       {selectedBook && (
         <div style={{ marginBottom: '1.5rem' }}>
-          <h3 style={{ fontSize: '1.1rem', marginBottom: '0.75rem', fontWeight: 700 }}>Choose Test</h3>
+          <h3 style={{ fontSize: '1.1rem', marginBottom: '0.75rem', fontWeight: 700 }}>
+            {selectedBook.title.toLowerCase().includes('destination') ? 'Choose Unit' : 'Choose Test'}
+          </h3>
           <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap' }}>
             {tests.map((t) => (
               <button
@@ -130,7 +146,11 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
                 className={`btn ${selectedTest?.id === t.id ? 'btn-primary' : 'btn-secondary'}`}
                 style={{ padding: '0.5rem 1rem' }}
               >
-                <span>Test {t.test_number}</span>
+                <span>
+                  {selectedBook.title.toLowerCase().includes('destination')
+                    ? `Unit ${t.test_number}`
+                    : `Test ${t.test_number}`}
+                </span>
               </button>
             ))}
           </div>
@@ -141,12 +161,16 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
       {selectedTest && (
         <div>
           <h3 style={{ fontSize: '1.2rem', marginBottom: '1rem', fontWeight: 700 }}>
-            {selectedBook?.title} — Test {selectedTest.test_number} Sections
+            {selectedBook?.title} —{' '}
+            {selectedBook?.title.toLowerCase().includes('destination')
+              ? `Unit ${selectedTest.test_number}`
+              : `Test ${selectedTest.test_number} Sections`}
           </h3>
 
           <div className="card-grid">
             {sections.map((s) => {
               const isListening = s.skill === 'listening';
+              const isDestination = selectedBook?.title.toLowerCase().includes('destination');
               return (
                 <div key={s.id} className="card">
                   <div className="card-header">
@@ -157,17 +181,23 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
                         <BookOpen size={20} color="#0d9488" />
                       )}
                       <span className="card-title">
-                        {isListening ? `Listening Part ${s.part_number}` : `Reading Passage ${s.part_number}`}
+                        {isListening
+                          ? `Listening Part ${s.part_number}`
+                          : isDestination
+                          ? `Grammar & Vocabulary Exercises`
+                          : `Reading Passage ${s.part_number}`}
                       </span>
                     </div>
                     <span className="card-tag">
-                      {isListening ? 'Audio Included' : 'Reading'}
+                      {isListening ? 'Audio Included' : isDestination ? 'Grammar & Vocab' : 'Reading'}
                     </span>
                   </div>
 
                   <p style={{ color: 'var(--text-muted)', fontSize: '0.85rem', marginBottom: '1.25rem', flex: 1 }}>
                     {isListening
                       ? 'Authentic British Council / Cambridge recording with note/table completion & multiple choice.'
+                      : isDestination
+                      ? 'Grammar practice, sentence correction, and vocabulary exercises with instant scoring.'
                       : 'Academic reading passage with multiple question types & instant computer scoring.'}
                   </p>
 

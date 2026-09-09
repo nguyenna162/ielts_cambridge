@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict E7WJDhiIgwtbthsfw3BeUfDbbYkx3HSe9TfG4KGgtKhDyoACHsUsA7c3XyOzP2E
+\restrict a6pJpRGrD5qTiuLT8ghzYsTQDqJOyynP7T3i8lQwWyk12h48fQawdudOFWFTzc9
 
 -- Dumped from database version 18.6
 -- Dumped by pg_dump version 18.6
@@ -2318,6 +2318,101 @@ COPY public.answer_keys (id, question_id, correct_answer, explanation) FROM stdi
 1918	1918	["Answer 38"]	Cambridge IELTS 14 Test 4 Passage 3 Official Answer Key
 1919	1919	["Answer 39"]	Cambridge IELTS 14 Test 4 Passage 3 Official Answer Key
 1920	1920	["Answer 40"]	Cambridge IELTS 14 Test 4 Passage 3 Official Answer Key
+1921	1921	["is writing", "'s writing"]	Present continuous for an action happening right now.
+1922	1922	["are losing", "'re losing"]	Present continuous for an ongoing situation.
+1923	1923	["is having", "'s having"]	Present continuous with 'have' meaning taking a shower (temporary action).
+1924	1924	["is staying", "'s staying"]	Present continuous for temporary situations.
+1925	1925	["am not lying", "'m not lying"]	Negative present continuous of 'lie'.
+1926	1926	["is always using", "'s always using"]	Present continuous with 'always' to express annoying habits.
+1927	1927	["are having", "'re having"]	Present continuous for an action in progress at the time of speaking.
+1928	1928	["Are you playing"]	Present continuous question form.
+1929	1929	["Do top musicians study"]	Present simple for general facts and routines.
+1930	1930	["aren't touching", "are not touching"]	Present continuous for an action happening at the moment of speaking.
+1931	1931	["does"]	Present simple for permanent or regular job responsibilities.
+1932	1932	["Is Christine listening"]	Present continuous for an action in progress right now.
+1933	1933	["usually buy"]	Present simple with frequency adverb 'usually'.
+1934	1934	["starts"]	Present simple for scientific facts, instructions, or automatic reactions.
+1935	1935	["Is our team winning", "Is our team winning?"]	Present continuous for an ongoing match/situation.
+1936	1936	["enjoy"]	Stative verb 'enjoy' expressing a general feeling/preference in present simple.
+1937	1937	["B", "am working"]	Present continuous for temporary summer job.
+1938	1938	["A", "don't go", "do not go"]	Present simple for habits and routines ('very often').
+1939	1939	["B", "is getting"]	Action happening right now at the time of the phone call.
+1940	1940	["A", "Does Gary ever talk"]	Present simple with 'ever' to ask about general habits/actions.
+1941	1941	["A", "hit"]	Present simple for rules of sports and general truths.
+1942	1942	["A", "read"]	Present simple for frequency ('at least once a week').
+1943	1943	["A", "Do you practise", "Do you practice"]	Present simple for daily routine ('every day').
+1944	1944	["B", "are doing"]	Present continuous for situation around the present ('at the moment').
+1945	1945	["A", "knows"]	Stative verb 'know' is not used in continuous tenses.
+1946	1946	["A", "do you spell"]	Present simple to ask how a permanent name is spelled.
+1947	1947	["A", "usually goes"]	Present simple with frequency adverb 'usually' for habits.
+1948	1948	["B", "is talking"]	Present continuous for actions happening 'right now'.
+1949	1949	["B", "aren't eating", "are not eating"]	Present continuous for temporary situations ('at the moment').
+1950	1950	["B", "Is air travel getting"]	Present continuous for trends and changing situations.
+1951	1951	["A", "calls"]	Present simple for regular habits ('every weekend').
+1952	1952	["A", "do babysitters generally earn"]	Present simple for general facts and routines.
+1953	1953	["B", "You're always coming", "You are always coming"]	Present continuous with 'always' to express annoyance.
+1954	1954	["A", "I don't go / I always try", "I don't go/I always try"]	Present simple for general routine.
+1955	1955	["A", "does stop"]	Present simple for timetable/schedule with emphatic 'does'.
+1956	1956	["A", "takes"]	Present simple for regular activities ('almost every weekend').
+1957	1957	["often gets up"]	Present simple for habits with 'often'.
+1958	1958	["Do you speak"]	Present simple for permanent ability.
+1959	1959	["I've already bought", "I have already bought"]	Present perfect simple with 'already'.
+1960	1960	["I've ever had", "I have ever had"]	'It's the first time...' is followed by present perfect simple.
+1961	1961	["works", "does work"]	After auxiliary 'does', use bare infinitive 'work', or simply 'works'.
+1962	1962	["has never eaten"]	Present perfect simple for experiences up to now with 'never ... before'.
+1963	1963	["Sean has already booked", "Sean's already booked"]	Present perfect simple with 'already'.
+1964	1964	["Does Melanie need"]	Present simple question uses auxiliary 'Does'.
+1965	1965	["ever"]	'ever' in questions about life experience.
+1966	1966	["yet"]	'yet' at the end of negative sentences.
+1967	1967	["since"]	'since' indicates the starting point in time.
+1968	1968	["for"]	'for' followed by a period of time.
+1969	1969	["so"]	'so far' meaning up to now.
+1970	1970	["rarely"]	'rarely' expresses seldom frequency.
+1971	1971	["just"]	'just' indicates a very recent action.
+1972	1972	["still"]	'still' expresses surprise that an action continues not to happen.
+1973	1973	["before"]	'before' at the end of sentence meaning previously.
+1974	1974	["already"]	'already' in questions expressing surprise that something happened early.
+1975	1975	["B", "is taking"]	Present continuous for action happening at the moment.
+1976	1976	["C", "Have you ever been"]	Present perfect simple for life experience with 'before'.
+1977	1977	["A", "already"]	'already' between auxiliary and main verb.
+1978	1978	["B", "is sleeping"]	Present continuous for temporary arrangement.
+1979	1979	["A", "doesn't get"]	Present simple with 'very often'.
+1980	1980	["C", "I have got"]	'That's the first time...' followed by present perfect simple.
+1981	1981	["C", "have already written"]	Present perfect simple for completed action with result.
+1982	1982	["D", "Have you been watching"]	Present perfect continuous emphasizing duration ('for the last four hours').
+1983	1983	["A", "do you usually play"]	Present simple question with 'usually' for routine.
+1984	1984	["A", "do drink"]	Emphatic present simple ('do drink').
+1985	1985	["is doing"]	Present continuous for a temporary course of study.
+1986	1986	["don't see", "do not see"]	Present simple with 'very often'.
+1987	1987	["doesn't get", "does not get"]	Present simple for habitual arrival time.
+1988	1988	["are getting"]	Present continuous for a process currently in progress.
+1989	1989	["go"]	Present simple for giving directions.
+1990	1990	["turn"]	Present simple imperative/direction.
+1991	1991	["does float", "floats"]	Present simple for scientific facts.
+1992	1992	["are getting"]	Present continuous for gradual changes and trends.
+1993	1993	["doesn't eat", "does not eat"]	Present simple for permanent lifestyle choices.
+1994	1994	["aren't listening", "are not listening"]	Present continuous for action happening at the moment.
+1995	1995	["walks"]	Historic present simple used in joke telling.
+1996	1996	["are phoning", "Are you phoning"]	Present continuous for action happening right now.
+1997	1997	["order", "Do order"]	Present simple for regular habits with 'often'.
+1998	1998	["are walking"]	Present continuous setting background in narrative/joke.
+1999	1999	["spots"]	Present simple for sudden event in narrative.
+2000	2000	["doesn't wear", "does not wear"]	Present simple with tag question.
+2001	2001	["always"]	'always' expressing criticism or irritation.
+2002	2002	["present"]	'at present' meaning currently.
+2003	2003	["moment"]	'at the moment' for actions happening around now.
+2004	2004	["being"]	'for the time being' meaning temporarily.
+2005	2005	["rarely"]	'rarely' indicating seldom frequency.
+2006	2006	["every"]	'every now and then' meaning occasionally.
+2007	2007	["most", "much", "some"]	'most of the time' meaning usually.
+2008	2008	["never"]	'never' meaning at no time.
+2009	2009	["time"]	'from time to time' meaning occasionally.
+2010	2010	["right"]	'right now' emphasizing the exact present moment.
+2011	2011	["time"]	'the last time' idiom.
+2012	2012	["days"]	'these days' meaning nowadays.
+2013	2013	["whenever", "when", "if"]	'whenever' meaning every time that.
+2014	2014	["for"]	'for now' meaning for the present moment.
+2015	2015	["That", "It"]	'That is the last time...' expressing a firm decision.
 \.
 
 
@@ -2382,12 +2477,15 @@ COPY public.audio_tracks (id, section_id, file_path, checksum, duration_seconds)
 --
 
 COPY public.books (id, title, total_pages, source_pdf_path, source_pdf_checksum, created_at) FROM stdin;
-1	Cambridge IELTS 15	147	cambridge-ielts-15/source/book.pdf	a24469a4319bdff90088859b82850e2f986a88e2e3b13e6547db117a20783298	2026-08-31 22:31:49.601087+07
-2	Cambridge IELTS 10	178	cambridge-ielts-10/source/book.pdf	0aeed1819673c6eedf6dcf77ab4e82ae097af17310b40b5ac0c64421d0f824f6	2026-08-31 23:10:16.037421+07
-3	Cambridge IELTS 11	146	cambridge-ielts-11/source/book.pdf	2249e9db6a14822f5508ea2b2014712a9b716ce69a6672430ce5f690ab141f3f	2026-08-31 23:10:16.722461+07
-4	Cambridge IELTS 12	131	cambridge-ielts-12/source/book.pdf	8ef4aa53dfb50dd17f89f5c9ec545b12ace34681967d553ff459311f44935300	2026-08-31 23:10:17.463889+07
-5	Cambridge IELTS 13	140	cambridge-ielts-13/source/book.pdf	96fe590ec5cd371a9ff1a8cd962552eb89cd48022cbc5c82df2e1c67e36e8259	2026-08-31 23:10:18.279374+07
-6	Cambridge IELTS 14	136	cambridge-ielts-14/source/book.pdf	f3b720cb1a975c412196cb55432067c33ec0c5b3cf5bae588c985aada861721c	2026-08-31 23:10:19.118214+07
+8	Destination B2 Grammar and Vocabulary	258	destination-b2/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-09-09 23:48:38.521224+07
+9	Destination C1 and C2 Grammar and Vocabulary	316	destination-c1-c2/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-09-09 23:48:39.70705+07
+1	Cambridge IELTS 15	147	cambridge-ielts-15/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 22:31:49.601087+07
+2	Cambridge IELTS 10	178	cambridge-ielts-10/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 23:10:16.037421+07
+3	Cambridge IELTS 11	146	cambridge-ielts-11/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 23:10:16.722461+07
+4	Cambridge IELTS 12	131	cambridge-ielts-12/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 23:10:17.463889+07
+5	Cambridge IELTS 13	140	cambridge-ielts-13/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 23:10:18.279374+07
+6	Cambridge IELTS 14	136	cambridge-ielts-14/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-08-31 23:10:19.118214+07
+7	Destination B1 Grammar and Vocabulary	256	destination-b1/source/book.pdf	58f8fa06a7b6a86be209bcb3cd072182ea4e0f337dfd3d757815abcccd24b13a	2026-09-09 23:39:06.831958+07
 \.
 
 
@@ -2735,6 +2833,15 @@ COPY public.question_groups (id, section_id, group_order, question_type, instruc
 257	167	2	multiple_choice	Questions 21-26. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.	21	26
 258	168	1	matching_headings	Questions 27-33. Do the following statements agree with the information given in Reading Passage 3?\nIn boxes 27-33 on your answer sheet, write TRUE, FALSE, or NOT GIVEN.	27	33
 259	168	2	multiple_choice	Questions 34-40. Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.	34	40
+260	169	1	verb_form	Exercise B: Complete using the correct present continuous form of the verbs in brackets. You may have to use some negative forms.	1	8
+261	169	2	sentence_correction	Exercise C: Rewrite correctly. Change the words or phrases in bold.	9	16
+262	169	3	multiple_choice	Exercise D: Circle the correct word or phrase.	17	26
+263	170	1	multiple_choice	Exercise A: Circle the correct word or phrase.	1	10
+264	170	2	sentence_correction	Exercise B: Rewrite correctly. Change the words or phrases in bold.	11	18
+265	170	3	gap_fill	Exercise D: Complete using the words in the box: already | before | ever | for | just | rarely | since | so | still | yet	19	28
+266	170	4	multiple_choice	Exercise E: Choose the correct answer.	29	38
+267	171	1	verb_form	Exercise A: Write the verb in brackets in the correct form, present simple or present continuous, in each gap.	1	16
+268	171	2	gap_fill	Exercise B: Write one word in each gap.	17	31
 \.
 
 
@@ -3575,6 +3682,86 @@ COPY public.question_options (id, question_id, option_label, option_text) FROM s
 830	1887	A	TRUE
 831	1887	B	FALSE
 832	1887	C	NOT GIVEN
+833	1937	A	work
+834	1937	B	am working
+835	1938	A	don't go
+836	1938	B	aren't going
+837	1939	A	gets
+838	1939	B	is getting
+839	1940	A	Does Gary ever talk
+840	1940	B	Is Gary ever talking
+841	1941	A	hit
+842	1941	B	are hitting
+843	1942	A	read
+844	1942	B	am reading
+845	1943	A	Do you practise
+846	1943	B	Are you practising
+847	1944	A	do
+848	1944	B	are doing
+849	1945	A	knows
+850	1945	B	is knowing
+851	1946	A	do you spell
+852	1946	B	are you spelling
+853	1947	A	usually goes
+854	1947	B	is usually going
+855	1948	A	talks
+856	1948	B	is talking
+857	1949	A	don't eat
+858	1949	B	aren't eating
+859	1950	A	Does air travel get
+860	1950	B	Is air travel getting
+861	1951	A	calls
+862	1951	B	is calling
+863	1952	A	do babysitters generally earn
+864	1952	B	are babysitters generally earning
+865	1953	A	You always come
+866	1953	B	You're always coming
+867	1954	A	I don't go / I always try
+868	1954	B	I'm not going / I'm always trying
+869	1955	A	does stop
+870	1955	B	is stopping
+871	1956	A	takes
+872	1956	B	is taking
+873	1975	A	takes
+874	1975	B	is taking
+875	1975	C	has taken
+876	1975	D	has been taking
+877	1976	A	Do you ever go
+878	1976	B	Are you ever going
+879	1976	C	Have you ever been
+880	1976	D	Have you ever been going
+881	1977	A	already
+882	1977	B	yet
+883	1977	C	still
+884	1977	D	so far
+885	1978	A	sleeps
+886	1978	B	is sleeping
+887	1978	C	has slept
+888	1978	D	does sleep
+889	1979	A	doesn't get
+890	1979	B	isn't getting
+891	1979	C	hasn't got
+892	1979	D	hasn't been getting
+893	1980	A	I get
+894	1980	B	I am getting
+895	1980	C	I have got
+896	1980	D	I have been getting
+897	1981	A	already write
+898	1981	B	already writing
+899	1981	C	have already written
+900	1981	D	have already been writing
+901	1982	A	Do you watch
+902	1982	B	Are you watching
+903	1982	C	Watched you
+904	1982	D	Have you been watching
+905	1983	A	do you usually play
+906	1983	B	are you usually playing
+907	1983	C	have you usually played
+908	1983	D	have you usually been playing
+909	1984	A	do drink
+910	1984	B	am drinking
+911	1984	C	have drunk
+912	1984	D	have been drinking
 \.
 
 
@@ -5503,6 +5690,101 @@ COPY public.questions (id, group_id, question_number, prompt_text, audio_start_s
 1918	259	38	Sentence completion for Question 38	\N	\N	\N
 1919	259	39	Sentence completion for Question 39	\N	\N	\N
 1920	259	40	Sentence completion for Question 40	\N	\N	\N
+1921	260	1	Gordon? I think he ______ (write) a letter at the moment.	\N	\N	7
+1922	260	2	Yes, the match is on TV now, but we ______ (lose).	\N	\N	7
+1923	260	3	Right now, Margaret ______ (have) a shower. Do you want to ring later?	\N	\N	7
+1924	260	4	Sally ______ (stay) with her aunt for a few days.	\N	\N	7
+1925	260	5	I ______ (lie)! It's true! I did see Madonna at the supermarket.	\N	\N	7
+1926	260	6	Josh ______ (always / use) my bike! It's so annoying.	\N	\N	7
+1927	260	7	We ______ (have) lunch, but I can come round and help you later.	\N	\N	7
+1928	260	8	______ (you / play) music up there? It's really noisy!	\N	\N	7
+1929	261	9	Are top musicians studying for many years? -> ______	\N	\N	7
+1930	261	10	What's going on? I hope you don't touch my things! -> ______	\N	\N	7
+1931	261	11	It's a small business, so each person is doing lots of different jobs. -> ______	\N	\N	7
+1932	261	12	Does Christine listen to the radio, or is that the TV I can hear? -> ______	\N	\N	7
+1933	261	13	I am usually buying a special ticket each week for the bus because it's cheaper. -> ______	\N	\N	7
+1934	261	14	Our washing machine is starting when you press this button. -> ______	\N	\N	7
+1935	261	15	How's the match going? Does our team win? -> ______	\N	\N	7
+1936	261	16	Many people are enjoying spending time on the beach on holiday. -> ______	\N	\N	7
+1937	262	17	I work / am working at the local library for the summer.	\N	\N	8
+1938	262	18	We don't go / aren't going to the theatre very often.	\N	\N	8
+1939	262	19	Stacy gets / is getting ready for school, so she can't come to the phone.	\N	\N	8
+1940	262	20	Does Gary ever talk / Is Gary ever talking about his expedition to the Amazon jungle?	\N	\N	8
+1941	262	21	In squash, you hit / are hitting a ball against a wall.	\N	\N	8
+1942	262	22	I read / am reading a newspaper at least once a week.	\N	\N	8
+1943	262	23	Do you practise / Are you practising the piano for two hours every day?	\N	\N	8
+1944	262	24	Nadine and Claire do / are doing quite well at school at the moment.	\N	\N	8
+1945	262	25	A good friend knows / is knowing when you're upset about something.	\N	\N	8
+1946	262	26	How do you spell / are you spelling your name?	\N	\N	8
+1947	263	1	Elizabeth usually goes / is usually going to bed at around eleven o'clock.	\N	\N	9
+1948	263	2	Dan talks / is talking on the other phone right now.	\N	\N	9
+1949	263	3	We don't eat / aren't eating any meat at the moment as we're both on a diet.	\N	\N	9
+1950	263	4	Does air travel get / Is air travel getting increasingly safe?	\N	\N	9
+1951	263	5	My mum calls / is calling me every weekend without fail.	\N	\N	9
+1952	263	6	How much do babysitters generally earn / are babysitters generally earning?	\N	\N	9
+1953	263	7	You always come / You're always coming up with excuses for not having done your homework. It's so annoying!	\N	\N	9
+1954	263	8	I don't go / I'm not going out much during the week but I always try / I'm always trying to go out somewhere on Saturday night.	\N	\N	9
+1955	263	9	No, the train does stop / is stopping at Cirencester on Saturdays.	\N	\N	9
+1956	263	10	My mum takes / is taking part in ice-skating competitions almost every weekend.	\N	\N	9
+1957	264	11	My dad is often getting up late on Saturday mornings. -> ______	\N	\N	9
+1958	264	12	Are you speaking any other languages apart from English? -> ______	\N	\N	9
+1959	264	13	I already buy all my Christmas presents and it's only October! -> ______	\N	\N	9
+1960	264	14	It's the first time I'm ever having a party at home. -> ______	\N	\N	9
+1961	264	15	Actually, I think Darren does works quite hard sometimes. -> ______	\N	\N	9
+1962	264	16	Carlo is never eating Chinese food before. -> ______	\N	\N	9
+1963	264	17	Sean already books a table for tonight. -> ______	\N	\N	9
+1964	264	18	Needs Melanie any help painting her new flat? -> ______	\N	\N	9
+1965	265	19	Have you ______ dreamt of winning the lottery?	\N	\N	10
+1966	265	20	I haven't worked out how to set the timer on the video ______.	\N	\N	10
+1967	265	21	My dad's lived in the same house ______ he was born.	\N	\N	10
+1968	265	22	The film's only been on ______ a couple of minutes.	\N	\N	10
+1969	265	23	Bruce has knocked three men out of the competition ______ far.	\N	\N	10
+1970	265	24	I ______ get the chance to get any exercise - I'm just too busy.	\N	\N	10
+1971	265	25	He's only ______ got home.	\N	\N	10
+1972	265	26	It's eleven o'clock and Todd ______ hasn't come home. Where could he be?	\N	\N	10
+1973	265	27	I've never met Ruth ______ . What's she like?	\N	\N	10
+1974	265	28	Have you finished ______ ? That was quick!	\N	\N	10
+1975	266	29	Ian ______ a shower at the moment, so could you call back in about half an hour?	\N	\N	10
+1976	266	30	______ to Ipswich before?	\N	\N	10
+1977	266	31	Jessica has ______ left, I'm afraid.	\N	\N	10
+1978	266	32	Dan ______ in the living room while we redecorate his bedroom.	\N	\N	10
+1979	266	33	Unfortunately, Simone ______ a day off very often.	\N	\N	10
+1980	266	34	That's the first time ______ an answer right today!	\N	\N	10
+1981	266	35	I ______ to all the local newspapers and TV stations to complain.	\N	\N	10
+1982	266	36	______ TV for the last four hours? Turn it off and get some exercise!	\N	\N	10
+1983	266	37	Eric, ______ hockey competitively or just for fun?	\N	\N	10
+1984	266	38	Actually, I ______ a cup of tea first thing every morning but then I switch to coffee.	\N	\N	10
+1985	267	1	My brother ______ (do) a degree at university so I don't see him very often.	\N	\N	9
+1986	267	2	My brother is doing a degree at university so I ______ (not / see) him very often, unfortunately.	\N	\N	9
+1987	267	3	Darren ______ usually ______ (not / get) home until about eight o'clock.	\N	\N	9
+1988	267	4	I'm sorry to hear that your parents ______ (get) divorced.	\N	\N	9
+1989	267	5	You ______ (go) to the end of the street and turn right.	\N	\N	9
+1990	267	6	You go to the end of the street and ______ (turn) right.	\N	\N	9
+1991	267	7	Why ______ ice ______ (float)?	\N	\N	9
+1992	267	8	It's lovely now the evenings ______ (get) longer, isn't it?	\N	\N	9
+1993	267	9	My dad ______ (not / eat) meat at all - he's a vegetarian.	\N	\N	9
+1994	267	10	Actually, we ______ (not / listen) to The Libertines at all - this is Babyshambles.	\N	\N	9
+1995	267	11	A man ______ (walk) into a bar. Ouch! Not a good idea to walk into an iron bar!	\N	\N	9
+1996	267	12	______ you ______ (phone) me from your mobile? The line's not very good.	\N	\N	9
+1997	267	13	Do you often ______ (order) things online?	\N	\N	9
+1998	267	14	There's an Englishman, an Irishman and a Scotsman. They ______ (walk) across the desert...	\N	\N	9
+1999	267	15	... when one of them ______ (spot) a camel in the distance.	\N	\N	9
+2000	267	16	'Phil ______ (not / wear) ties, does he?' - 'Actually, he wears a tie to work most days.'	\N	\N	9
+2001	268	17	Why do you ______ leave the light on when you go out of the room? You wait till you start paying the electricity bill!	\N	\N	9
+2002	268	18	Fifteen teachers are teaching here full-time at ______ .	\N	\N	9
+2003	268	19	My sister's revising for her GCSEs at the ______ .	\N	\N	9
+2004	268	20	I'm quite happy living at home for the time ______ , but I guess I'll have to get my own place eventually.	\N	\N	9
+2005	268	21	It's true that Ralph calls us quite ______ , but most students only call their parents when they need something, don't they?	\N	\N	9
+2006	268	22	We go to the cinema ______ now and then, but only if there's something good on.	\N	\N	9
+2007	268	23	I'm alone in my study bedroom reading ______ of the time.	\N	\N	9
+2008	268	24	Tim ______ goes out to play until he's done all his homework. I just don't allow it!	\N	\N	9
+2009	268	25	I see Lucinda from ______ to time, but not on a regular basis.	\N	\N	9
+2010	268	26	I'm sitting in the garden ______ now talking to you on my mobile.	\N	\N	9
+2011	268	27	That's the last ______ we're inviting Dave to one of our parties!	\N	\N	9
+2012	268	28	Do young people these ______ have more free time than they did in the past?	\N	\N	9
+2013	268	29	My mum fills up with petrol ______ she goes to the supermarket.	\N	\N	9
+2014	268	30	I'm staying in ______ now, but I might go out a bit later on.	\N	\N	9
+2015	268	31	______ is the last time I ever order from that pizzeria. It was disgusting!	\N	\N	9
 \.
 
 
@@ -5679,6 +5961,9 @@ COPY public.sections (id, test_id, skill, part_number, page_start, page_end) FRO
 166	24	reading	1	81	83
 167	24	reading	2	84	86
 168	24	reading	3	87	89
+169	25	reading	1	6	8
+170	26	reading	1	9	10
+171	27	reading	1	9	11
 \.
 
 
@@ -5711,6 +5996,9 @@ COPY public.tests (id, book_id, test_number) FROM stdin;
 22	6	2
 23	6	3
 24	6	4
+25	7	1
+26	8	1
+27	9	1
 \.
 
 
@@ -5723,6 +6011,39 @@ COPY public.user_answers (id, attempt_id, question_id, given_answer, is_correct)
 2	2	1	james	f
 3	5	1	Jamieson	t
 4	16	1	Jamieson	t
+5	22	1	jamieson	t
+6	22	2	Afternoon 	t
+7	22	3	cooking	f
+8	23	1921	's writing	t
+9	23	1922	are losing	t
+10	23	1925	'm not lying	t
+11	23	1928	are you playing	t
+12	23	1929	Do top musicians study	t
+13	23	1930	are not touching	t
+14	23	1934	starts	t
+15	23	1935	is winning	f
+16	23	1937	B	t
+17	23	1938	don't go	t
+18	23	1939	A	f
+19	23	1945	knows	t
+20	23	1946	do you spell	t
+21	24	1	Jamieson	t
+22	25	1	jamieson	t
+23	25	2	Afternoon 	t
+24	25	3	cooking	f
+25	26	1921	's writing	t
+26	26	1922	are losing	t
+27	26	1925	'm not lying	t
+28	26	1928	are you playing	t
+29	26	1929	Do top musicians study	t
+30	26	1930	are not touching	t
+31	26	1934	starts	t
+32	26	1935	is winning	f
+33	26	1937	B	t
+34	26	1938	don't go	t
+35	26	1939	A	f
+36	26	1945	knows	t
+37	26	1946	do you spell	t
 \.
 
 
@@ -5752,6 +6073,11 @@ COPY public.user_attempts (id, user_id, section_id, started_at, finished_at) FRO
 19	2	57	2026-09-04 00:36:16.263942+07	\N
 20	2	61	2026-09-04 00:36:26.650739+07	\N
 21	2	83	2026-09-04 00:55:10.38361+07	\N
+22	1	1	2026-09-09 23:42:54.598012+07	2026-09-09 23:42:54.631321+07
+23	1	169	2026-09-09 23:42:54.702286+07	2026-09-09 23:42:54.727087+07
+24	1	1	2026-09-09 23:43:55.052085+07	2026-09-09 23:43:55.083117+07
+25	1	1	2026-09-09 23:49:48.759196+07	2026-09-09 23:49:48.789478+07
+26	1	169	2026-09-09 23:49:48.854704+07	2026-09-09 23:49:48.878671+07
 \.
 
 
@@ -5771,7 +6097,7 @@ COPY public.users (id, username, password_hash, is_admin, created_at) FROM stdin
 -- Name: answer_keys_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.answer_keys_id_seq', 1920, true);
+SELECT pg_catalog.setval('public.answer_keys_id_seq', 2015, true);
 
 
 --
@@ -5785,7 +6111,7 @@ SELECT pg_catalog.setval('public.audio_tracks_id_seq', 48, true);
 -- Name: books_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.books_id_seq', 6, true);
+SELECT pg_catalog.setval('public.books_id_seq', 9, true);
 
 
 --
@@ -5799,49 +6125,49 @@ SELECT pg_catalog.setval('public.passages_id_seq', 72, true);
 -- Name: question_groups_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.question_groups_id_seq', 259, true);
+SELECT pg_catalog.setval('public.question_groups_id_seq', 268, true);
 
 
 --
 -- Name: question_options_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.question_options_id_seq', 832, true);
+SELECT pg_catalog.setval('public.question_options_id_seq', 912, true);
 
 
 --
 -- Name: questions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.questions_id_seq', 1920, true);
+SELECT pg_catalog.setval('public.questions_id_seq', 2015, true);
 
 
 --
 -- Name: sections_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.sections_id_seq', 168, true);
+SELECT pg_catalog.setval('public.sections_id_seq', 171, true);
 
 
 --
 -- Name: tests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.tests_id_seq', 24, true);
+SELECT pg_catalog.setval('public.tests_id_seq', 27, true);
 
 
 --
 -- Name: user_answers_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.user_answers_id_seq', 4, true);
+SELECT pg_catalog.setval('public.user_answers_id_seq', 37, true);
 
 
 --
 -- Name: user_attempts_id_seq; Type: SEQUENCE SET; Schema: public; Owner: admin
 --
 
-SELECT pg_catalog.setval('public.user_attempts_id_seq', 21, true);
+SELECT pg_catalog.setval('public.user_attempts_id_seq', 26, true);
 
 
 --
@@ -6103,5 +6429,5 @@ ALTER TABLE ONLY public.user_attempts
 -- PostgreSQL database dump complete
 --
 
-\unrestrict E7WJDhiIgwtbthsfw3BeUfDbbYkx3HSe9TfG4KGgtKhDyoACHsUsA7c3XyOzP2E
+\unrestrict a6pJpRGrD5qTiuLT8ghzYsTQDqJOyynP7T3i8lQwWyk12h48fQawdudOFWFTzc9
 

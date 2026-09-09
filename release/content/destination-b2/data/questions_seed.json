@@ -1,0 +1,520 @@
+{
+  "book": {
+    "title": "Destination B2 Grammar and Vocabulary",
+    "total_pages": 258,
+    "source_pdf_path": "destination-b2/source/book.pdf",
+    "source_pdf_checksum": "ee79ce853b8032d975a0e63f0ad00f2fd47b88e41a13e60f38ada0d439272022"
+  },
+  "tests": [
+    {
+      "test_number": 1,
+      "sections": [
+        {
+          "skill": "reading",
+          "part_number": 1,
+          "page_start": 9,
+          "page_end": 10,
+          "passages": [],
+          "question_groups": [
+            {
+              "group_order": 1,
+              "question_type": "multiple_choice",
+              "instruction": "Exercise A: Circle the correct word or phrase.",
+              "question_from": 1,
+              "question_to": 10,
+              "questions": [
+                {
+                  "question_number": 1,
+                  "prompt_text": "Elizabeth usually goes / is usually going to bed at around eleven o'clock.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "usually goes"},
+                    {"option_label": "B", "option_text": "is usually going"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "usually goes"],
+                    "explanation": "Present simple with frequency adverb 'usually' for habits."
+                  }
+                },
+                {
+                  "question_number": 2,
+                  "prompt_text": "Dan talks / is talking on the other phone right now.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "talks"},
+                    {"option_label": "B", "option_text": "is talking"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "is talking"],
+                    "explanation": "Present continuous for actions happening 'right now'."
+                  }
+                },
+                {
+                  "question_number": 3,
+                  "prompt_text": "We don't eat / aren't eating any meat at the moment as we're both on a diet.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "don't eat"},
+                    {"option_label": "B", "option_text": "aren't eating"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "aren't eating", "are not eating"],
+                    "explanation": "Present continuous for temporary situations ('at the moment')."
+                  }
+                },
+                {
+                  "question_number": 4,
+                  "prompt_text": "Does air travel get / Is air travel getting increasingly safe?",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "Does air travel get"},
+                    {"option_label": "B", "option_text": "Is air travel getting"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "Is air travel getting"],
+                    "explanation": "Present continuous for trends and changing situations."
+                  }
+                },
+                {
+                  "question_number": 5,
+                  "prompt_text": "My mum calls / is calling me every weekend without fail.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "calls"},
+                    {"option_label": "B", "option_text": "is calling"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "calls"],
+                    "explanation": "Present simple for regular habits ('every weekend')."
+                  }
+                },
+                {
+                  "question_number": 6,
+                  "prompt_text": "How much do babysitters generally earn / are babysitters generally earning?",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "do babysitters generally earn"},
+                    {"option_label": "B", "option_text": "are babysitters generally earning"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "do babysitters generally earn"],
+                    "explanation": "Present simple for general facts and routines."
+                  }
+                },
+                {
+                  "question_number": 7,
+                  "prompt_text": "You always come / You're always coming up with excuses for not having done your homework. It's so annoying!",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "You always come"},
+                    {"option_label": "B", "option_text": "You're always coming"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "You're always coming", "You are always coming"],
+                    "explanation": "Present continuous with 'always' to express annoyance."
+                  }
+                },
+                {
+                  "question_number": 8,
+                  "prompt_text": "I don't go / I'm not going out much during the week but I always try / I'm always trying to go out somewhere on Saturday night.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "I don't go / I always try"},
+                    {"option_label": "B", "option_text": "I'm not going / I'm always trying"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "I don't go / I always try", "I don't go/I always try"],
+                    "explanation": "Present simple for general routine."
+                  }
+                },
+                {
+                  "question_number": 9,
+                  "prompt_text": "No, the train does stop / is stopping at Cirencester on Saturdays.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "does stop"},
+                    {"option_label": "B", "option_text": "is stopping"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "does stop"],
+                    "explanation": "Present simple for timetable/schedule with emphatic 'does'."
+                  }
+                },
+                {
+                  "question_number": 10,
+                  "prompt_text": "My mum takes / is taking part in ice-skating competitions almost every weekend.",
+                  "page_reference": 9,
+                  "options": [
+                    {"option_label": "A", "option_text": "takes"},
+                    {"option_label": "B", "option_text": "is taking"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "takes"],
+                    "explanation": "Present simple for regular activities ('almost every weekend')."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 2,
+              "question_type": "sentence_correction",
+              "instruction": "Exercise B: Rewrite correctly. Change the words or phrases in bold.",
+              "question_from": 11,
+              "question_to": 18,
+              "questions": [
+                {
+                  "question_number": 11,
+                  "prompt_text": "My dad is often getting up late on Saturday mornings. -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["often gets up"],
+                    "explanation": "Present simple for habits with 'often'."
+                  }
+                },
+                {
+                  "question_number": 12,
+                  "prompt_text": "Are you speaking any other languages apart from English? -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["Do you speak"],
+                    "explanation": "Present simple for permanent ability."
+                  }
+                },
+                {
+                  "question_number": 13,
+                  "prompt_text": "I already buy all my Christmas presents and it's only October! -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["I've already bought", "I have already bought"],
+                    "explanation": "Present perfect simple with 'already'."
+                  }
+                },
+                {
+                  "question_number": 14,
+                  "prompt_text": "It's the first time I'm ever having a party at home. -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["I've ever had", "I have ever had"],
+                    "explanation": "'It's the first time...' is followed by present perfect simple."
+                  }
+                },
+                {
+                  "question_number": 15,
+                  "prompt_text": "Actually, I think Darren does works quite hard sometimes. -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["works", "does work"],
+                    "explanation": "After auxiliary 'does', use bare infinitive 'work', or simply 'works'."
+                  }
+                },
+                {
+                  "question_number": 16,
+                  "prompt_text": "Carlo is never eating Chinese food before. -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["has never eaten"],
+                    "explanation": "Present perfect simple for experiences up to now with 'never ... before'."
+                  }
+                },
+                {
+                  "question_number": 17,
+                  "prompt_text": "Sean already books a table for tonight. -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["Sean has already booked", "Sean's already booked"],
+                    "explanation": "Present perfect simple with 'already'."
+                  }
+                },
+                {
+                  "question_number": 18,
+                  "prompt_text": "Needs Melanie any help painting her new flat? -> ______",
+                  "page_reference": 9,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["Does Melanie need"],
+                    "explanation": "Present simple question uses auxiliary 'Does'."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 3,
+              "question_type": "gap_fill",
+              "instruction": "Exercise D: Complete using the words in the box: already | before | ever | for | just | rarely | since | so | still | yet",
+              "question_from": 19,
+              "question_to": 28,
+              "questions": [
+                {
+                  "question_number": 19,
+                  "prompt_text": "Have you ______ dreamt of winning the lottery?",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["ever"],
+                    "explanation": "'ever' in questions about life experience."
+                  }
+                },
+                {
+                  "question_number": 20,
+                  "prompt_text": "I haven't worked out how to set the timer on the video ______.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["yet"],
+                    "explanation": "'yet' at the end of negative sentences."
+                  }
+                },
+                {
+                  "question_number": 21,
+                  "prompt_text": "My dad's lived in the same house ______ he was born.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["since"],
+                    "explanation": "'since' indicates the starting point in time."
+                  }
+                },
+                {
+                  "question_number": 22,
+                  "prompt_text": "The film's only been on ______ a couple of minutes.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["for"],
+                    "explanation": "'for' followed by a period of time."
+                  }
+                },
+                {
+                  "question_number": 23,
+                  "prompt_text": "Bruce has knocked three men out of the competition ______ far.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["so"],
+                    "explanation": "'so far' meaning up to now."
+                  }
+                },
+                {
+                  "question_number": 24,
+                  "prompt_text": "I ______ get the chance to get any exercise - I'm just too busy.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["rarely"],
+                    "explanation": "'rarely' expresses seldom frequency."
+                  }
+                },
+                {
+                  "question_number": 25,
+                  "prompt_text": "He's only ______ got home.",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["just"],
+                    "explanation": "'just' indicates a very recent action."
+                  }
+                },
+                {
+                  "question_number": 26,
+                  "prompt_text": "It's eleven o'clock and Todd ______ hasn't come home. Where could he be?",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["still"],
+                    "explanation": "'still' expresses surprise that an action continues not to happen."
+                  }
+                },
+                {
+                  "question_number": 27,
+                  "prompt_text": "I've never met Ruth ______ . What's she like?",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["before"],
+                    "explanation": "'before' at the end of sentence meaning previously."
+                  }
+                },
+                {
+                  "question_number": 28,
+                  "prompt_text": "Have you finished ______ ? That was quick!",
+                  "page_reference": 10,
+                  "options": [],
+                  "answer_key": {
+                    "correct_answer": ["already"],
+                    "explanation": "'already' in questions expressing surprise that something happened early."
+                  }
+                }
+              ]
+            },
+            {
+              "group_order": 4,
+              "question_type": "multiple_choice",
+              "instruction": "Exercise E: Choose the correct answer.",
+              "question_from": 29,
+              "question_to": 38,
+              "questions": [
+                {
+                  "question_number": 29,
+                  "prompt_text": "Ian ______ a shower at the moment, so could you call back in about half an hour?",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "takes"},
+                    {"option_label": "B", "option_text": "is taking"},
+                    {"option_label": "C", "option_text": "has taken"},
+                    {"option_label": "D", "option_text": "has been taking"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "is taking"],
+                    "explanation": "Present continuous for action happening at the moment."
+                  }
+                },
+                {
+                  "question_number": 30,
+                  "prompt_text": "______ to Ipswich before?",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "Do you ever go"},
+                    {"option_label": "B", "option_text": "Are you ever going"},
+                    {"option_label": "C", "option_text": "Have you ever been"},
+                    {"option_label": "D", "option_text": "Have you ever been going"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["C", "Have you ever been"],
+                    "explanation": "Present perfect simple for life experience with 'before'."
+                  }
+                },
+                {
+                  "question_number": 31,
+                  "prompt_text": "Jessica has ______ left, I'm afraid.",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "already"},
+                    {"option_label": "B", "option_text": "yet"},
+                    {"option_label": "C", "option_text": "still"},
+                    {"option_label": "D", "option_text": "so far"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "already"],
+                    "explanation": "'already' between auxiliary and main verb."
+                  }
+                },
+                {
+                  "question_number": 32,
+                  "prompt_text": "Dan ______ in the living room while we redecorate his bedroom.",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "sleeps"},
+                    {"option_label": "B", "option_text": "is sleeping"},
+                    {"option_label": "C", "option_text": "has slept"},
+                    {"option_label": "D", "option_text": "does sleep"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["B", "is sleeping"],
+                    "explanation": "Present continuous for temporary arrangement."
+                  }
+                },
+                {
+                  "question_number": 33,
+                  "prompt_text": "Unfortunately, Simone ______ a day off very often.",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "doesn't get"},
+                    {"option_label": "B", "option_text": "isn't getting"},
+                    {"option_label": "C", "option_text": "hasn't got"},
+                    {"option_label": "D", "option_text": "hasn't been getting"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "doesn't get"],
+                    "explanation": "Present simple with 'very often'."
+                  }
+                },
+                {
+                  "question_number": 34,
+                  "prompt_text": "That's the first time ______ an answer right today!",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "I get"},
+                    {"option_label": "B", "option_text": "I am getting"},
+                    {"option_label": "C", "option_text": "I have got"},
+                    {"option_label": "D", "option_text": "I have been getting"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["C", "I have got"],
+                    "explanation": "'That's the first time...' followed by present perfect simple."
+                  }
+                },
+                {
+                  "question_number": 35,
+                  "prompt_text": "I ______ to all the local newspapers and TV stations to complain.",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "already write"},
+                    {"option_label": "B", "option_text": "already writing"},
+                    {"option_label": "C", "option_text": "have already written"},
+                    {"option_label": "D", "option_text": "have already been writing"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["C", "have already written"],
+                    "explanation": "Present perfect simple for completed action with result."
+                  }
+                },
+                {
+                  "question_number": 36,
+                  "prompt_text": "______ TV for the last four hours? Turn it off and get some exercise!",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "Do you watch"},
+                    {"option_label": "B", "option_text": "Are you watching"},
+                    {"option_label": "C", "option_text": "Watched you"},
+                    {"option_label": "D", "option_text": "Have you been watching"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["D", "Have you been watching"],
+                    "explanation": "Present perfect continuous emphasizing duration ('for the last four hours')."
+                  }
+                },
+                {
+                  "question_number": 37,
+                  "prompt_text": "Eric, ______ hockey competitively or just for fun?",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "do you usually play"},
+                    {"option_label": "B", "option_text": "are you usually playing"},
+                    {"option_label": "C", "option_text": "have you usually played"},
+                    {"option_label": "D", "option_text": "have you usually been playing"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "do you usually play"],
+                    "explanation": "Present simple question with 'usually' for routine."
+                  }
+                },
+                {
+                  "question_number": 38,
+                  "prompt_text": "Actually, I ______ a cup of tea first thing every morning but then I switch to coffee.",
+                  "page_reference": 10,
+                  "options": [
+                    {"option_label": "A", "option_text": "do drink"},
+                    {"option_label": "B", "option_text": "am drinking"},
+                    {"option_label": "C", "option_text": "have drunk"},
+                    {"option_label": "D", "option_text": "have been drinking"}
+                  ],
+                  "answer_key": {
+                    "correct_answer": ["A", "do drink"],
+                    "explanation": "Emphatic present simple ('do drink')."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
